@@ -1,0 +1,7 @@
+# Blog App API
+
+This is a blog app CRUD API built using Node and Express. 
+
+The challenge was to set up a CRUD API on the server-side for a blogging platform, to set up the app with required and optional fields, and to use  in-memory storage. 
+
+-MdL
